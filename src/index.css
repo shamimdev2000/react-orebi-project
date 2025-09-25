@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.slick-dots .slick-active div{
+    color: #262626 !important;
+    border-right: 2px solid #fff !important;
+
+}
